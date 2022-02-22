@@ -1,0 +1,43 @@
+ExifTool Version Number         : 12.16
+File Name                       : hq_cam_color_checker_new.dng
+Directory                       : .
+File Size                       : 24 MiB
+File Modification Date/Time     : 2022:02:12 11:20:24+01:00
+File Access Date/Time           : 2022:02:12 11:20:23+01:00
+File Inode Change Date/Time     : 2022:02:12 11:20:24+01:00
+File Permissions                : rw-r--r--
+File Type                       : DNG
+File Type Extension             : dng
+MIME Type                       : image/x-adobe-dng
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : Raspberry Pi
+Camera Model Name               : /base/soc/i2c0mux/i2c@1/imx477@1a
+Orientation                     : Horizontal (normal)
+Software                        : libcamera-still
+Subfile Type                    : Full-resolution image
+Image Width                     : 4056
+Image Height                    : 3040
+Bits Per Sample                 : 16
+Compression                     : Uncompressed
+Photometric Interpretation      : Color Filter Array
+Samples Per Pixel               : 1
+Planar Configuration            : Chunky
+CFA Repeat Pattern Dim          : 2 2
+CFA Pattern 2                   : 2 1 1 0
+Black Level Repeat Dim          : 2 2
+Black Level                     : 256 256 256 256
+White Level                     : 4095
+DNG Version                     : 1.1.0.0
+DNG Backward Version            : 1.0.0.0
+Unique Camera Model             : /base/soc/i2c0mux/i2c@1/imx477@1a
+Color Matrix 1                  : 0.3806826174 -0.09813511372 -0.008731900714 -0.220981434 0.888884902 0.294952035 0.06568053365 0.1024207622 0.5077140927
+As Shot Neutral                 : 0.2541849017 1 0.7176622152
+Calibration Illuminant 1        : D65
+Strip Offsets                   : 0
+Strip Byte Counts               : 0
+Exposure Time                   : 1/52
+ISO                             : 200
+CFA Pattern                     : [Blue,Green][Green,Red]
+Image Size                      : 4056x3040
+Megapixels                      : 12.3
+Shutter Speed                   : 1/52

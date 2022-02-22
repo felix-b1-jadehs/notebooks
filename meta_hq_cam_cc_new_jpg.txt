@@ -1,0 +1,31 @@
+ExifTool Version Number         : 12.16
+File Name                       : hq_cam_color_checker_new.jpg
+Directory                       : .
+File Size                       : 1605 KiB
+File Modification Date/Time     : 2022:02:12 11:20:23+01:00
+File Access Date/Time           : 2022:02:12 11:20:23+01:00
+File Inode Change Date/Time     : 2022:02:12 11:20:23+01:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : Raspberry Pi
+Camera Model Name               : /base/soc/i2c0mux/i2c@1/imx477@1a
+Software                        : libcamera-still
+Modify Date                     : 2022:02:12 11:20:22
+Exposure Time                   : 1/52
+ISO                             : 200
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 272
+Thumbnail Length                : 10182
+Image Width                     : 4056
+Image Height                    : 3040
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 4056x3040
+Megapixels                      : 12.3
+Shutter Speed                   : 1/52
+Thumbnail Image                 : (Binary data 10182 bytes, use -b option to extract)
